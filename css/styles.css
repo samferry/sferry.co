@@ -54,3 +54,37 @@ footer {
   color: #a0a0a0;
   font-size: 14px;
 }
+
+/* sferry.co custom styles */
+footer {
+  font-size: 68%;
+  height: 60px;
+}
+.copyright {
+  margin-bottom: 7px;
+}
+.footer-nav {
+  list-style: none;
+  padding-left: 0;
+  font-size: 0;
+}
+.footer-nav li {
+  display: inline;
+  font-size: 10px;
+  padding: 0px 10px 0px 10px;
+}
+.footer-nav li a {
+  color: inherit;
+}
+.footer-nav li a:hover {
+  color: #CCC;
+}
+.footer-nav .separator {
+  font-size: 10px;
+}
+.footer-nav li.first {
+  padding: 0px 10px 0px 0px;
+}
+.footer-nav li.last {
+  padding: 0px 0px 0px 10px;
+}
